@@ -96,7 +96,9 @@ The filtered claims data is written to data.csv in the current working directory
 
 #### Resources
 -OpenFEMA portal: https://www.fema.gov/openfema
+
 -rfema package: https://cran.r-project.org/web/packages/rfema/index.html
+
 -FEMA NFIP claims dataset: https://www.fema.gov/openfema-dataset-national-flood-insurance-program-claims
 
 ***
@@ -115,8 +117,3 @@ If you have any questions, feel free to open an issue or contact us directly.
 ## Additional Information
 This project uses data from the NYC311 Open Data Portal and FEMA Open Data Portal, but is not endorsed or funded by any government entity.
 
-
-
-
-
- 
