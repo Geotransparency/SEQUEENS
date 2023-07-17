@@ -18,10 +18,11 @@ python3 -m venv venv
 source venv/bin/activate
 
 ***
-## Code 
-Here is a sample README for the Python code to query and extract basement flooding data from NYC OpenData:
+## Code File 
+Contains code examples for NYC311 (Python) and Open FEMA (R). 
 
-### NYC Basement Flooding Analysis
+
+### NYC311 Basement Flooding Analysis (Python)
 
 This code retrieves and analyzes basement flooding complaints from the NYC OpenData 311 complaint dataset.
 
@@ -70,7 +71,7 @@ The script outputs a filtered CSV file containing only basement flooding complai
 
   ***
 
-### FEMA Flood Claims Analysis
+### FEMA Flood Claims Analysis (R) 
 This code retrieves National Flood Insurance Program (NFIP) claims data from FEMA and extracts claims for New York State to a CSV file for analysis.
 
 #### Data Source
