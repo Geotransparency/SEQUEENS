@@ -1,4 +1,21 @@
-# SEQUEENS
+# NYC Queens Flooding Data Aggregator - Looking at Queens
+
+This repository contains the Python code needed to pull, process and analyze flooding data from both the NYC311 Open Data Portal and the FEMA Open Data Portal, focusing on the borough of Queens, New York. The purpose of this project is to aid in the understanding and analysis of flooding events in Queens, potentially leading to better preparation, response, and resilience for such events in the future.
+  
+## Setup and Installation
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/<your-username>/nyc-queens-flooding-data.git
+cd nyc-queens-flooding-data
+Create a virtual environment and activate it:
+
+bash
+Copy code
+python3 -m venv venv
+source venv/bin/activate
+Install the project dependencies:
 
 
 ***
@@ -81,4 +98,25 @@ The filtered claims data is written to data.csv in the current working directory
 OpenFEMA portal: https://www.fema.gov/openfema
 rfema package: https://cran.r-project.org/web/packages/rfema/index.html
 FEMA NFIP claims dataset: https://www.fema.gov/openfema-dataset-national-flood-insurance-program-claims
+
+***
+## Contributing
+Contributions are welcomed! Please read the CONTRIBUTING.md for the process for submitting pull requests to us.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md 
+
+## Acknowledgments
+We would like to thank NYC311 and FEMA for providing open access to their data, making this project possible.
+
+## Contact
+If you have any questions, feel free to open an issue or contact us directly.
+
+## Additional Information
+This project uses data from the NYC311 Open Data Portal and FEMA Open Data Portal, but is not endorsed or funded by any government entity.
+
+
+
+
+
  
