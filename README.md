@@ -1,4 +1,4 @@
-# NYC Queens Flooding Data Aggregator - Looking at Queens
+# NYC Flooding Data Aggregator - Looking at Queens
 
 This repository contains the Python code needed to pull, process and analyze flooding data from both the NYC311 Open Data Portal and the FEMA Open Data Portal, focusing on the borough of Queens, New York. The purpose of this project is to aid in the understanding and analysis of flooding events in Queens, potentially leading to better preparation, response, and resilience for such events in the future.
   
