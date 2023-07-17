@@ -9,14 +9,12 @@ bash
 Copy code
 git clone https://github.com/<your-username>/nyc-queens-flooding-data.git
 cd nyc-queens-flooding-data
-Create a virtual environment and activate it:
 
+Create a virtual environment and activate it:
 bash
 Copy code
 python3 -m venv venv
 source venv/bin/activate
-Install the project dependencies:
-
 
 ***
 ## Code 
